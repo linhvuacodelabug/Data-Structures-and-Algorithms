@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/PC/Desktop/Cấu trúc dữ liệu và thuật toán",
-      "program": "c:/Users/PC/Desktop/Cấu trúc dữ liệu và thuật toán/build/Debug/outDebug",
+      "cwd": "c:/Users/PC/Documents/Workspace/C++/CTDT vs TT",
+      "program": "c:/Users/PC/Documents/Workspace/C++/CTDT vs TT/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
